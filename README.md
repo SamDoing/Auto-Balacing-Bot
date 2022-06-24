@@ -8,4 +8,4 @@ The project is build using MPLAB® X IDE
 It is used to show the 3D pose of robot and send movings commands using WASD.
 ### Video of the project
 
-[<img src="https://i.ytimg.com/vi/96Pw_33-KS0/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=96Pw_33-KS0 "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/ZnpLhRgDqbQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZnpLhRgDqbQ "Self balancing robot")
