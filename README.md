@@ -6,6 +6,6 @@ The project is build using MPLAB® X IDE
 
 ### Processing
 It is used to show the 3D pose of robot and send movings commands using WASD.
-### Video of the project
+### YouTube video of the project
 
 [<img src="https://i.ytimg.com/vi/ZnpLhRgDqbQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZnpLhRgDqbQ "Self balancing robot")
